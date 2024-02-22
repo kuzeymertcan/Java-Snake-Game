@@ -28,10 +28,6 @@ This project is a simple snake game developed in the Java programming language. 
 ![Snake Game](screenshot-2.png)
 ![Snake Game](screenshot-3.png)
 
-## Video Demonstration
-
-[Watch a demo on YouTube](https://www.youtube.com/watch?v=your_video_id)
-
 ## Contributing
 
 - To report bugs or make suggestions, open an [issue](https://github.com/kuzeymertcan/Java-Snake-Game/issues).
