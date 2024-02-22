@@ -32,8 +32,8 @@ This project is a simple snake game developed in the Java programming language. 
 
 ## Contributing
 
-- To report bugs or make suggestions, open an [issue](https://github.com/yourusername/projectname/issues).
-- To contribute by forking and creating a pull request, follow the [pull request guidelines](https://github.com/yourusername/projectname/pulls).
+- To report bugs or make suggestions, open an [issue](https://github.com/kuzeymertcan/Java-Snake-Game/issues).
+- To contribute by forking and creating a pull request, follow the [pull request guidelines](https://github.com/kuzeymertcan/Java-Snake-Game/pulls).
 
 ## License
 
