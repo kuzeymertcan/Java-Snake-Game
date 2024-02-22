@@ -1,6 +1,6 @@
 # Java Snake Game
 
-![Snake Game](screenshot.png)
+![Snake Game](screenshot-2.png)
 
 This project is a simple snake game developed in the Java programming language. The main objective of the game is to control the snake, eat apples, and increase the score.
 
@@ -24,7 +24,9 @@ This project is a simple snake game developed in the Java programming language. 
 
 ## Screenshots
 
-![Snake Game](screenshot.png)
+![Snake Game](screenshot-1.png)
+![Snake Game](screenshot-2.png)
+![Snake Game](screenshot-3.png)
 
 ## Video Demonstration
 
